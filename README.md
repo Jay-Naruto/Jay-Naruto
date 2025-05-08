@@ -5,8 +5,6 @@
   
 - 📫 How to reach me **jay7mistry@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gR2PultBpoQwhcMYPU24fNk-TcOaunJz/view?usp=sharing](https://drive.google.com/file/d/1gR2PultBpoQwhcMYPU24fNk-TcOaunJz/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jay-mistry-15a5091b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-mistry-15a5091b0" height="30" width="40" /></a>
