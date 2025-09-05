@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Mistry</h1>
 <h3 align="center">AI Full Stack Developer | Building innovative and intelligent software solutions to revolutionize technology.</h3>
 
-- 💻 Currently working at **Enterprise Technology at Arizona State University**
+- 💻 Currently working at **Scout**
   
 - 📫 How to reach me **jay7mistry@gmail.com**
 
